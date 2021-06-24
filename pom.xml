@@ -509,7 +509,7 @@
             <id>MySQL</id>
             <properties>
                 <db.script>mysql</db.script>
-                <jpa.database>petclinic</jpa.database>
+                <jpa.database>MYSQL</jpa.database>
                 <jdbc.driverClassName>com.mysql.cj.jdbc.Driver</jdbc.driverClassName>
                 <jdbc.url>jdbc:mysql://10.0.111.164:3306/petclinic?useUnicode=true</jdbc.url>
                 <jdbc.username>netuser</jdbc.username>

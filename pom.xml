@@ -511,9 +511,9 @@
                 <db.script>mysql</db.script>
                 <jpa.database>MYSQL</jpa.database>
                 <jdbc.driverClassName>com.mysql.cj.jdbc.Driver</jdbc.driverClassName>
-                <jdbc.url>jdbc:mysql:jenkins-db.crv3409jaawc.ap-south-1.rds.amazonaws.com?useUnicode=true</jdbc.url>
+                <jdbc.url>petclinic1.crinre7ijt4h.ap-south-1.rds.amazonaws.com</jdbc.url>
                 <jdbc.username>admin</jdbc.username>
-                <jdbc.password>Aws123vishnu</jdbc.password>
+                <jdbc.password>Admin123aws</jdbc.password>
             </properties>
             <dependencies>
                 <dependency>
